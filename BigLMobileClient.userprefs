@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{39B71760-8C07-47B1-AAC2-4762F650C7A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BigLMobileClient/Controllers/GetUserDetails.cs">
+    <Files>
+      <File FileName="BigLMobileClient/BigLMobileClientPage.xaml" Line="5" Column="1" />
+      <File FileName="BigLMobileClient/App.xaml" Line="7" Column="1" />
+      <File FileName="BigLMobileClient/BigLMobileClientPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="BigLMobileClient/PointsPage.cs" Line="1" Column="1" />
+      <File FileName="BigLMobileClient/App.xaml.cs" Line="9" Column="13" />
+      <File FileName="BigLMobileClient/Dtos/UserDto.cs" Line="7" Column="50" />
+      <File FileName="BigLMobileClient/Dtos/TeamDto.cs" Line="7" Column="44" />
+      <File FileName="BigLMobileClient/Dtos/WeeklyChallenge.cs" Line="7" Column="37" />
+      <File FileName="BigLMobileClient/Services/TeamActions.cs" Line="9" Column="36" />
+      <File FileName="BigLMobileClient/Services/Interfaces/ITeam.cs" Line="10" Column="66" />
+      <File FileName="BigLMobileClient/Services/Interfaces/IUser.cs" Line="10" Column="67" />
+      <File FileName="BigLMobileClient/Services/UserActions.cs" Line="22" Column="86" />
+      <File FileName="BigLMobileClient/Services/Interfaces/IWeeklyChallenge.cs" Line="9" Column="65" />
+      <File FileName="BigLMobileClient/Services/ChallengeActions.cs" Line="18" Column="71" />
+      <File FileName="BigLMobileClient/Controllers/GetUserDetails.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BigLMobileClient.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.76F71079-6324-4933-B312-EACCE3C29F0F" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
